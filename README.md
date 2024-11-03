@@ -2,6 +2,7 @@
 2D Top-down roguelike made with **Unity**, featuring procedural dungeon generation
 
 
+[Watch the demo video](demo.mov)
 
 
 ## Programming Achievements:
